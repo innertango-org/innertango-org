@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://innertango.org/feed" rel="self" type="application/rss+xml" />
+	<link>http://innertango.org</link>
+	<description>The healing power of a mythical dance</description>
+	<lastBuildDate>Mon, 15 Mar 2010 11:03:26 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Intensive Seminar of Tango-Therapy  From 28 to 30 of May in Aegina Island, Greece</title>
+		<link>http://innertango.org/intensive-seminar-of-tango-therapy-from-28-to-30-of-may-in-aegina-island-greece</link>
+		<comments>http://innertango.org/intensive-seminar-of-tango-therapy-from-28-to-30-of-may-in-aegina-island-greece#comments</comments>
+		<pubDate>Mon, 15 Mar 2010 10:43:04 +0000</pubDate>
+		<dc:creator>itadm</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Aegina Island]]></category>
+		<category><![CDATA[may 2010]]></category>
+		<category><![CDATA[tango seminar]]></category>
+
+		<guid isPermaLink="false">http://innertango.org/?p=46</guid>
+		<description><![CDATA[What is Tango-Therapy?
+Tango-Therapy is a system that integrates the dance, poetry and music of Tango through motivating experiences of self-discovering. It allows us getting deeper insights about the human psyches for diagnostic and therapeutic reasons and for enhancing personal growth.
+The encounter group of Tango-Therapy is a space for creativity, development and meaningful human interaction, plenty [...]]]></description>
+			<content:encoded><![CDATA[<p><strong>What is Tango-Therapy?</strong></p>
+<p>Tango-Therapy is a system that integrates the dance, poetry and music of Tango through motivating experiences of self-discovering. It allows us getting deeper insights about the human psyches for diagnostic and therapeutic reasons and for enhancing personal growth.</p>
+<p>The encounter group of Tango-Therapy is a space for creativity, development and meaningful human interaction, plenty of playfulness, joy and the beauty of art.</p>
+<p><a href="../wp-content/uploads/2010/03/kataxorish-aegina-2010-telik-520i.jpg"><img class="alignleft" style="border: 1px solid black;" title="kataxorish aegina 2010  teliki" src="../wp-content/uploads/2010/03/kataxorish-aegina-2010-telik-520i.jpg" alt="InnerTango Seminar, Aegina Island, Greece" width="500" height="265" /></a></p>
+<p><strong>About the Workshop:</strong></p>
+<p>The character of the workshops will be theoretical-practical, intensive and integrative. The beginning will consist on “warm-up” exercises and the fundamentals of Tango-dance. The main workshop will be about Dr. Trossero’s technique, which focuses on the chain of events around the activity of dancing Tango and the analysis of perceptions of the group, couples and personal experiencing.</p>
+<p>&#8212; No previous knowledge of the dance of Tango is required. Nevertheless, for those experienced dancers new techniques and tools will be offered.</p>
+<p>Addressed to:</p>
+<p>Students and health professionals, like psychiatrists, psychologists, counselors, physiotherapists, body-workers, dance-therapists, music-therapists, drama-therapists, art-therapists, dancers and people working on alternative therapies.</p>
+<p>It is also addressed to people willing to deepen their self-knowledge and the knowledge about their social interaction.</p>
+<p><a href="../wp-content/uploads/2010/03/kataxorish-aegina-2010-telik-520i.jpg"><br />
+</a></p>
+<p><strong>Federico Trossero</strong></p>
+<p>is a psychiatrist, graduated with honors at the Universidad Nacional de Rosario, where he is now Professor in psychiatry. He is a tango teacher and tango-therapists trainer. Dr Trossero has published a book called “Tango terapia”.</p>
+<p><strong>Program</strong></p>
+<p>Friday 28/05: 17:30 Check-in and Welcome Meeting</p>
+<p>18:00-19:30 Tango Lesson for Beginners</p>
+<p>19:30-21:00 Innertango Workshop – All levels</p>
+<p>Saturday 29/05: 10:00-12:00 all levels Tango Therapy (TT)</p>
+<p>17:00- 19:00 TT for Therapists</p>
+<p>19:00-21:00 TT for Dancers</p>
+<p>22:00 Milonga and Show by Dr Trossero&amp;partener and Gabriel Marino&amp;Romina Tumini</p>
+<p>Sunday: 10:00- 12:00 TT for Therapists</p>
+<p>12:00-14:00 TT for Dancers</p>
+<p>17:00-19:00 all levels TT</p>
+]]></content:encoded>
+			<wfw:commentRss>http://innertango.org/intensive-seminar-of-tango-therapy-from-28-to-30-of-may-in-aegina-island-greece/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
